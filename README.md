@@ -28,7 +28,7 @@
 
 <p>
   <b>Getting Started</b><br>
-  - Clone the repository: <code>git clone https://github.com/Kaushal2212/hotel-room-management</code><br>
+  - Clone the repository: <code>git clone https://github.com/Kaushal2212/Hotel-Room-Management</code><br>
   - Navigate to the project directory: <code>cd hotel-room-management</code><br>
   - Configure the database in <code>application.properties</code>.<br>
   - Install dependencies: <code>mvn clean install</code><br>
